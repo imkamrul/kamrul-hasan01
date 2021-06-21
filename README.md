@@ -11,6 +11,6 @@
 
 <p align="center">
 
-<a href="https://facebook.com/kamrulhasan.kh02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="soykot2910" height="30" width="30" /></a>
-<a href="https://instagram.com/kamrulhasan.kh02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="soykot2910" height="30" width="30" /></a>
+<a href="https://facebook.com/kamrulhasan.kh02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="30" /></a>
+<a href="https://instagram.com/kamrulhasan.kh02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  height="30" width="30" /></a>
 </p>
