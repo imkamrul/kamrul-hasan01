@@ -1,5 +1,3 @@
-
-https://k17h02.github.io/Internet-Web-Technology/Assignment/Clone/
 <h1 align="center">Hello 👋, it's  me MD Kamrul Hasan </h1>
 <h3 align="center">A passionate developer</h3>
 
