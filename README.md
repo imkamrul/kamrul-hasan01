@@ -55,13 +55,13 @@
 <br/>
 <br/>
 
-<a href="https://github.com/k17h02/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=k17h02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/k17h02/github-readme-activity-graph"><img alt="Kamrul hasan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=k17h02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/kamrul-hasan-4885041a0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
@@ -70,8 +70,8 @@
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/k17h02/github-profile-views-counter">
+## ❤ Followers
+
     <img src="https://komarev.com/ghpvc/?username=k17h02">
 </a>
 <a href="https://github.com/k17h02?tab=followers"><img src="https://img.shields.io/github/followers/k17h02?label=Followers&style=social" alt="GitHub Badge"></a>
