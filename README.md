@@ -38,20 +38,11 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/k17h02/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kamrul Hasan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k17h02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <a href="https://github.com/k17h02/github-readme-stats"><img alt="Kamrul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k17h02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-   
-  <a href="https://github.com/k17h02/github-readme-stats"><img alt="Kamrul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k17h02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-<br/>
-<br/>
 
 
 ## Connect with me:
