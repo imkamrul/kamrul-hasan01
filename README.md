@@ -35,12 +35,7 @@
 
 
 
-<br/>
-
-<p align="center">
-    <a href="https://github.com/k17h02/github-readme-stats"><img alt="Kamrul Hasan's Top Languages" /></a>
-  <br/>
-
+<br>
 </p>
 
 
