@@ -72,6 +72,5 @@
 
 ## ❤ Followers
 
-    <img src="https://komarev.com/ghpvc/?username=k17h02">
-</a>
+
 <a href="https://github.com/k17h02?tab=followers"><img src="https://img.shields.io/github/followers/k17h02?label=Followers&style=social" alt="GitHub Badge"></a>
