@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kamrul Hasan</h1>
+<h1 align="center">Hi  , I'm Kamrul Hasan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 
 
@@ -38,7 +38,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/k17h02/github-readme-stats"><img alt="Kamrul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k17h02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/k17h02/github-readme-stats"><img alt="Kamrul Hasan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k17h02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 </p>
