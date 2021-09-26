@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/k17h02)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://k17h02.github.io/resume/)**
 
 - 📫 How to reach me **kamrulhasan.kh02@gmail.com**
 
