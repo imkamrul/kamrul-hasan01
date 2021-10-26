@@ -1,18 +1,18 @@
 
 
 <h1 align="center">Hi  , I'm Kamrul Hasan</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate MERN Stack Developer from Bangladesh.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently studying   **[Primeasia University](https://primeasia.edu.bd//)**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **Node js.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://k17h02.github.io/resume/)**
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://k17h02.github.io/resume/)** -->
 
 - 📫 How to reach me **kamrulhasan.kh02@gmail.com**
 
