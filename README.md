@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kamrulhasan.kh02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15HDR5j4eF2UCW3sywXkNx-Cf34Pmef3E/view?usp=sharing](https://drive.google.com/file/d/15HDR5j4eF2UCW3sywXkNx-Cf34Pmef3E/view?usp=sharing)
+- 📄 Know about my experiences shorturl.at/vyBD3](https://drive.google.com/file/d/1GMOHBu17ao30SvvnO0yX55JEreNa-pFA/view)
 
 - ⚡ Fun fact **I love travelling**
 
