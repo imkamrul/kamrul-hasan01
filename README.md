@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently working on **NEXT JS**
 
-- 👨‍💻 All of my projects are available at [https://protfolio-k17h02.netlify.app/](https://protfolio-k17h02.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.kamrul.pro/](https://www.kamrul.pro/)
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **kamrulhasan.kh02@gmail.com**
 
